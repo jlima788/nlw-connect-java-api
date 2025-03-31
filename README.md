@@ -5,11 +5,13 @@ Este é um projeto desenvolvido em **Java** utilizando **Spring Boot**, que impl
 ## 🚀 Tecnologias Utilizadas
 
 - **Java 21**  
-- **Spring Boot**  
+- **Spring Boot**
+  - Spring Web
   - Spring Data JPA  
   - H2 Driver  
-  - Postgres Driver  
-  - Spring Web  
+  - Postgres Driver
+  - OpeaAPI Swagger
+    
 - **Banco de Dados:** Postgres  
 - **Ferramentas:**  
   - pgAdmin 4  
